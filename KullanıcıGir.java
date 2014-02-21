@@ -17,7 +17,7 @@ public class JavaApplication1 {
             Kul=in.next();
             System.out.println("Şifreyi girin :");
             Sif = in.nextInt();
-            if((!Kul.equals(GirKul)) || Sif!=357){//String Karşılaştırma
+            if((!Kul.equals(GirKul)) || Sif!=357){//String Karşılaştırma.
                     System.out.println();
                     System.out.println("Yanlış girdiniz");
                     System.out.println("Yeniden deneyiniz!");
